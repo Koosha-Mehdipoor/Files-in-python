@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e7e6ab8-02fa-40b0-8db0-414896d7541e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Marzi's project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Marzi's Project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results.txt" afterDir="false" />
-    </list>
+    <list default="true" id="7e7e6ab8-02fa-40b0-8db0-414896d7541e" name="Changes" comment="Final version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Koosha-Mehdipoor/Files-in-python.git",
+    "accountId": "f6cef0ac-1823-481f-9fe9-b0395f6d96cb"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -71,11 +67,25 @@
       <updated>1726239191475</updated>
       <workItem from="1726239192825" duration="6268000" />
       <workItem from="1726413551592" duration="4199000" />
+      <workItem from="1726759398070" duration="611000" />
     </task>
+    <task id="LOCAL-00001" summary="Final version">
+      <option name="closed" value="true" />
+      <created>1726759994688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726759994688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final version" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Marzi_s_project$Marzi_s_Project.coverage" NAME="Marzi's Project Coverage Results" MODIFIED="1726417545597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
